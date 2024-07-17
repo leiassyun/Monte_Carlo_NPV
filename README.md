@@ -19,10 +19,10 @@ This financial analysis tool automates Net Present Value (NPV) calculations and 
 
 ### Visualizations
 - Generates intuitive charts and histograms to illustrate potential financial scenarios and risk profiles, promoting clearer decision-making.
-- <img width="638" alt="Screenshot 2024-07-17 at 3 16 29 PM" src="https://github.com/user-attachments/assets/f5784f57-c17b-4fa8-a1ca-1fa62e7b385f">
-- <img width="638" alt="Screenshot 2024-07-17 at 3 15 50 PM" src="https://github.com/user-attachments/assets/ef237613-1b4b-4c5f-9a82-11703bf17000">
-
-
+- <p align="center">
+ <img width="400" alt="Screenshot 2024-07-17 at 3 16 29 PM" src="https://github.com/user-attachments/assets/f5784f57-c17b-4fa8-a1ca-1fa62e7b385f">
+ <img width="400" alt="Screenshot 2024-07-17 at 3 15 50 PM" src="https://github.com/user-attachments/assets/ef237613-1b4b-4c5f-9a82-11703bf17000">
+</p>
 
 
 
